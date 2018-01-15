@@ -68,3 +68,18 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+****************************************************************************************************************************************
+The Task I was given was as follows:
+"Using Code Igniter framework (http://www.codeigniter.com/), can you build the game tic tac toe game with the following features:
+ 
+Take a name for the two players and begin a new game.
+Use basic styling for the grid using css.
+Allow the players to click the grid to make their move, and highlight when the game is finished.
+Store the results of each match in a MySQL database, and have a page to view the results.
+Use the bootstrap framework to make it responsive in the following ways:
+On mobile device, make the game full screen.
+On desktop browser have the results of the last 5 matches on the right hand side – do this in bootstrap, not php.
+If you have more time, then please look at making an option of playing against the computer."
+
+As far as CSS functionality and AI complexity went, the code was required to be clean and easy to read.
